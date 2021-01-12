@@ -1,2 +1,2 @@
 # hello-world
-just a try
+it's just a try
